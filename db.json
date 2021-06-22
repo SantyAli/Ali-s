@@ -1,0 +1,22 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "email": "Ahmad@gmail.com",
+      "password": "Ahmad"
+    },
+    {
+      "id": 1,
+      "email": "Ali@gmail.com",
+      "password": "Ali"
+    },
+    {
+      "id": 2,
+      "email": "Maaz@gmail.com",
+      "password": "Maaz"
+    },
+    {
+      "id": 3
+    }
+  ]
+}
