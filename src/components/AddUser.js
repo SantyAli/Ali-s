@@ -35,6 +35,7 @@ export const AddUser = ({ onAdd }) => {
         />
       </div>
       <div style={{ width: "100%" }}>
+        <Button>New</Button>
         <Button type="submit" color="darkblue" text="Log In" />
       </div>
     </form>
